@@ -20,4 +20,4 @@ async def on_message(message):
 
 
 
-client.run('OTYwMzc3NTIzNTgwMDU1NjU0.YkpjRA.8V5yj8galAyOdaBkOwLBnPX7u-4')
+client.run('OTYwMzc3NTIzNTgwMDU1NjU0.YkpjRA.E-KGyREnQNtA9Uy74N_0G5HT7CY')
